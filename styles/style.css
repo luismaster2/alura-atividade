@@ -31,7 +31,7 @@ body{
     gap: 82px;
 }
 .container {
-    display: flex;
+    display: auto;
     align-items: center;
 }
 .img {

@@ -31,7 +31,7 @@ body{
     gap: 82px;
 }
 .container {
-    display: auto;
+    display: flex;
     align-items: center;
 }
 .img {
@@ -39,7 +39,7 @@ body{
     width: 40%;
     height: auto;
     display: block;
-    max-width: 100%;
+    max-width: auto;
     margin: auto;
 }
 
